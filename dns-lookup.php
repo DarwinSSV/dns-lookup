@@ -4,6 +4,7 @@ Plugin Name: DNS Lookup
 Description: This plugin displays site's DNS details ( Domain Provider, A Record, Domain Expiration ) in WP admin dashboard widget. Also send notification to admin on domain expiration.
 Author: Darwin S
 Author URI: http://darwins.unaux.com
+Requires PHP: 5.6.39
 Version: 1.0.0
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
